@@ -1,0 +1,1 @@
+## use react-native link to link dependencies to their modules
